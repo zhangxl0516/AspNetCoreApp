@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace AspNetCoreApp
 {
-    // 程序启动入口 
+    // 程序启动入口 sss
     public class Program
     {
         public static void Main(string[] args)
